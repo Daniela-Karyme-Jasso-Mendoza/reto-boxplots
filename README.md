@@ -7,11 +7,11 @@ Graficar e interpretar boxplots utilizando las librerias pandas, matplotlib y se
 **Daniela Karyme Jasso Mendoza**
 
 
-* [LinkedIn] (www.linkedin.com/in/daniela-karyme-jasso-mendoza-82a8681a0)
+* [LinkedIn](www.linkedin.com/in/daniela-karyme-jasso-mendoza-82a8681a0)
 
 
 ## Ver ejemplo en vivo 👀
-- [ENLACECOLAB] (https://colab.research.google.com/drive/1RdXCbQN0PkO63yt-DOl-F_hSans-_Ogd?usp=sharing)
+- [ENLACECOLAB](https://colab.research.google.com/drive/1RdXCbQN0PkO63yt-DOl-F_hSans-_Ogd?usp=sharing)
 
 ## Instalación
 Para trabajar con este proyecto necesitas contar con cualquier editor de texto o IDE para PYTHON.
